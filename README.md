@@ -27,7 +27,7 @@ A simple turn-based battle game built in C++ using SDL3. The project was created
 - `Makefile` – build instructions
 
 ## Why I Built It
-
+![Game screenshot](res/screenshot.png)
 I built this project to improve my C++ and game development skills by creating a small playable application from scratch. It helped me practise working with graphics libraries, managing assets, handling user input, and organising a game project.
 
 ## How to Build
