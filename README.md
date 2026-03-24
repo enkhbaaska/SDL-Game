@@ -36,4 +36,4 @@ Make sure SDL3, SDL3_image, and SDL3_ttf are installed and available.
 
 ```bash
 make
-g++ main.cpp
+main.exe
